@@ -4,6 +4,7 @@ Byte Meets Bark
 
 Byte Meets Bark is a data analysis project focused on exploring the distribution and temporal trends of rabies cases in Texas during the first three months of 2022 and 2023. The project utilizes data provided by the Texas Department of State Health Services to conduct exploratory data analysis (EDA), time series analysis, and geospatial analysis.
 
+[View Byte Meets Bark here!](http://rpubs.com/jlinn3s/bytemeetsbark)
 **Project Objectives**
 
 Explore the Distribution of Rabies Cases
